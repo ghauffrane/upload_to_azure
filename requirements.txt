@@ -1,2 +1,2 @@
 fastapi
-azure.storage
+azure.storage.blob
